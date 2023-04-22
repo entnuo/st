@@ -8,10 +8,10 @@
 static char *font = "Hack Nerd Font Mono:pixelsize=13:antialias=true:autohint=true";
 /* Spare fonts */
 static char *font2[] = {
-    "monospace:pixelsize=13:antialias=true:autohint=true",
     "Noto Color Emoji:pixelsize=10:antialias=true:autohint=true",
     "Symbola:pixelsize=15:antialias=true:autohint=true",
     "Liberation Mono:pixelsize=13:antialias=true:autohint=true",
+    "monospace:pixelsize=13:antialias=true:autohint=true",
 /*	"Inconsolata for Powerline:pixelsize=12:antialias=true:autohint=true", */
 /*	"Hack Nerd Font Mono:pixelsize=11:antialias=true:autohint=true", */
 };
